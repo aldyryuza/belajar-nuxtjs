@@ -3,6 +3,7 @@
     <MainHeader />
     <div>
       <ButtonSubmitButton />
+      <TestComp />
     </div>
     <MainFooter />
   </div>
